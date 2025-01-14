@@ -1,0 +1,22 @@
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+#e2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.e3 {
+    font-size: 24px;
+}
+
+#e4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* could have also made font-size for e3 and e4 into its own class to
+reduce duplicate code */
